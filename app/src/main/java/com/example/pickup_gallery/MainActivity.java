@@ -26,6 +26,6 @@ Handler handler;
                 startActivity(intent);
                 finish();
             }
-        }, 4000);
+        }, 3000);
     }
 }
